@@ -1,0 +1,51 @@
+﻿SITEID,HOSPITAL_NAME,CITY,LATITUDE,LONGITUDE
+1,Hôpital Pitié-Salpêtrière,Paris,48.8375,2.3631
+2,Hôpital Européen Georges-Pompidou,Paris,48.8396,2.2732
+3,Hôpital Bichat-Claude-Bernard,Paris,48.899,2.331
+4,Hôpital Cochin,Paris,48.8383,2.34
+5,Hôpital Saint-Louis,Paris,48.8741,2.368
+6,Hôpital Necker-Enfants malades,Paris,48.8468,2.3142
+7,Hôpital Henri-Mondor,Créteil,48.7952,2.4553
+8,Hôpital Avicenne,Bobigny,48.9146,2.424
+9,Hôpital Bicêtre,Le Kremlin-Bicêtre,48.8107,2.356
+10,Centre Hospitalier de Versailles - Hôpital André-Mignot,Le Chesnay-Rocquencourt,48.8297,2.1271
+11,Hospices Civils de Lyon - Hôpital Édouard-Herriot,Lyon,45.743,4.8795
+12,Hôpital de la Croix-Rousse,Lyon,45.781,4.8343
+13,Centre Hospitalier Lyon Sud,Pierre-Bénite,45.7027,4.8054
+14,Hôpital Nord,Marseille,43.3806,5.3637
+15,Hôpital de la Timone,Marseille,43.2897,5.4028
+16,Hôpital de la Conception,Marseille,43.2908,5.3936
+17,CHU de Nice - Hôpital Pasteur 2,Nice,43.725,7.282
+18,CHU de Toulouse - Hôpital Purpan,Toulouse,43.6139,1.4006
+19,CHU de Toulouse - Hôpital Rangueil,Toulouse,43.5608,1.4537
+20,CHU de Bordeaux - Hôpital Pellegrin,Bordeaux,44.8306,-0.6032
+21,CHU de Bordeaux - Hôpital Haut-Lévêque,Pessac,44.7966,-0.6485
+22,CHU de Nantes - Hôtel-Dieu,Nantes,47.211,-1.556
+23,CHU de Rennes - Hôpital Pontchaillou,Rennes,48.121,-1.695
+24,CHRU de Lille - Hôpital Claude-Huriez,Lille,50.6098,3.0346
+25,CHU d'Amiens-Picardie,Amiens,49.8734,2.2556
+26,CHU de Rouen - Hôpital Charles-Nicolle,Rouen,49.4407,1.1075
+27,CHU de Caen Normandie,Caen,49.2037,-0.361
+28,CHU de Brest - Hôpital de la Cavale Blanche,Brest,48.403,-4.5358
+29,CHU d'Angers,Angers,47.4817,-0.5556
+30,CHU de Tours - Hôpital Bretonneau,Tours,47.3906,0.6684
+31,CHU d'Orléans,Orléans,47.8365,1.9208
+32,CHU de Poitiers - Hôpital de la Milétrie,Poitiers,46.5598,0.3823
+33,CHU de Limoges - Hôpital Dupuytren,Limoges,45.8152,1.2353
+34,CHU de Clermont-Ferrand - Hôpital Gabriel-Montpied,Clermont-Ferrand,45.7596,3.0928
+35,CHU de Saint-Étienne - Hôpital Nord,Saint-Priest-en-Jarez,45.4809,4.3627
+36,CHU Grenoble Alpes - Hôpital Michallon,La Tronche,45.1992,5.7445
+37,CHU de Dijon - Hôpital François-Mitterrand,Dijon,47.3208,5.0687
+38,CHU de Besançon - Hôpital Jean-Minjoz,Besançon,47.2257,5.963
+39,Hôpitaux Universitaires de Strasbourg - Nouvel Hôpital Civil,Strasbourg,48.5756,7.7418
+40,CHRU de Nancy - Hôpital de Brabois,Vandœuvre-lès-Nancy,48.6486,6.1482
+41,CHU de Reims - Hôpital Robert-Debré,Reims,49.2265,4.0183
+42,CHU de Montpellier - Hôpital Lapeyronie,Montpellier,43.6308,3.85
+43,CHU de Nîmes - Hôpital Carémeau,Nîmes,43.8387,4.3123
+44,CHU de Perpignan,Perpignan,42.7256,2.8881
+45,Centre Hospitalier Universitaire de Martinique - Hôpital Pierre-Zobda-Quitman,Fort-de-France,14.615,-61.07
+46,CHU de la Guadeloupe,Les Abymes,16.2418,-61.5325
+47,CHU de La Réunion - Site Félix-Guyon,Saint-Denis,-20.8907,55.4551
+48,Centre Hospitalier de Mayotte,Mamoudzou,-12.7794,45.2272
+49,Centre Hospitalier de Bastia,Bastia,42.6815,9.4374
+50,Centre Hospitalier d'Ajaccio - Hôpital de la Miséricorde,Ajaccio,41.9194,8.7359
